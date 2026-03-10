@@ -13,13 +13,14 @@ My focus areas include SIEM engineering, infrastructure security, threat detecti
 
 ## GitHub Activity
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=scoobyganguk1&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scoobyganguk1&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=scoobyganguk1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scoobyganguk1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
 </p>
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=scoobyganguk1&theme=tokyonight&hide_border=true"/>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=scoobyganguk1&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
